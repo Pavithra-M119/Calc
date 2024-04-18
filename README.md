@@ -25,6 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -116,7 +117,7 @@ Publish the website in the given URL.
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![Screenshot (25)](https://github.com/Pavithra-M119/Calc/assets/119229774/a9735707-bf4e-440e-998b-ff832497a706)
 ![Screenshot (26)](https://github.com/Pavithra-M119/Calc/assets/119229774/e1d5bc60-09ce-4c31-846b-a537699de30b)
